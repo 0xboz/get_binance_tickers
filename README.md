@@ -1,0 +1,1 @@
+More information can be found in [this blog post](https://0xboz.github.io/blog/how-to-download-binance-trading-pair-tickers/)
